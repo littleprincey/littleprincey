@@ -12,6 +12,8 @@ Whilst we did projects in teams every week of the bootcamp, our final, fullstack
 
 Currently building that blog, doing a Udemy course on Ethical Hacking and engaging in different mediums on Cyber Security, keeping all my skills from bootcamp fresh!
 
+https://orlandos-security-blog.herokuapp.com/
+
 
 💻  Another side project i'm working on is (c)literature, a site im building in JS with a growing database of all the incredible books and things by women that i've discovered in the last few years.
 
