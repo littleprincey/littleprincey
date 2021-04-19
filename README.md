@@ -8,9 +8,9 @@ Whilst we did projects in teams every week of the bootcamp, our final, fullstack
 
 🌱  http://leaf-it-to-me.herokuapp.com/
 
-💼 You can find my security blog in the repo, a fullstack blog I have built with react-redux from scratch where I post about the cyber security learnings I am on!
+💼 You can find my security blog here, where I post about the cyber security learnings I am on!
 
-https://orlandos-security-blog.herokuapp.com/
+https://605981b4befb7.site123.me/
 
 Currently building that blog, doing a Udemy course on Ethical Hacking and engaging in different mediums on Cyber Security, keeping all my skills from bootcamp fresh!
 
